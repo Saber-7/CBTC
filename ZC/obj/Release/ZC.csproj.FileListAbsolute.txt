@@ -1,0 +1,87 @@
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\20170224\单端口ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\20170227\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170227\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170227\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\20170227\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC软件 - 副本\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC软件 -beta2\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Release\ZC.csproj.ResolveComReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.csproj.ResolveComReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\装机版\ZC\bin\Release\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.csproj.ResolveComReference.cache
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\装机版\ZC\bin\Release\ZC.exe
+C:\Users\PengYaFeng\Desktop\装机版\ZC\bin\Release\ZC.pdb
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\装机版\ZC\obj\Release\ZC.csprojResolveAssemblyReference.cache
+E:\BJTUCloud\CBTC\装机版\ZC\bin\Release\ZC.exe.config
+E:\BJTUCloud\CBTC\装机版\ZC\obj\Release\ZC.csproj.ResolveComReference.cache
+E:\BJTUCloud\CBTC\装机版\ZC\obj\Release\ZC.exe
+E:\BJTUCloud\CBTC\装机版\ZC\obj\Release\ZC.pdb

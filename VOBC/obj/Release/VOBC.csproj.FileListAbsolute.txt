@@ -1,0 +1,60 @@
+F:\实验室\VOBC\bin\Release\VOBC.exe.config
+F:\实验室\VOBC\obj\Release\VOBC.exe
+F:\实验室\VOBC\obj\Release\VOBC.pdb
+C:\Users\wang\Desktop\VOBC\bin\Release\VOBC.exe.config
+C:\Users\wang\Desktop\VOBC\obj\Release\VOBC.exe
+C:\Users\wang\Desktop\VOBC\obj\Release\VOBC.pdb
+C:\Users\wang\Desktop\VOBC\bin\Release\VOBC.exe
+C:\Users\wang\Desktop\VOBC\bin\Release\VOBC.pdb
+C:\Users\wang\Desktop\VOBC\obj\Release\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\VOBC\obj\Release\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\VOBC\obj\Release\CBTC.VOBC.resources
+C:\Users\wang\Desktop\VOBC\obj\Release\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\VOBC\obj\Release\VOBC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC - 副本\bin\Release\VOBC.exe.config
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\VOBC.exe
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\VOBC.pdb
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\CBTC.VOBC.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Release\VOBC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC - 副本\bin\Release\VOBC.exe
+C:\Users\wang\Desktop\VOBC - 副本\bin\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Release\VOBC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\CBTC.VOBC.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Release\VOBC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\bin\Release\VOBC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\bin\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\bin\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\CBTC.VOBC.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC-beta4\VOBC\obj\Release\VOBC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\bin\Release\VOBC.exe.config
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\bin\Release\VOBC.exe
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\bin\Release\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\CBTC.VOBC.resources
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\装机版\VOBC\obj\Release\VOBC.csproj.GenerateResource.Cache
+E:\BJTUCloud\CBTC\装机版\VOBC\bin\Release\VOBC.exe.config
+E:\BJTUCloud\CBTC\装机版\VOBC\obj\Release\VOBC.exe
+E:\BJTUCloud\CBTC\装机版\VOBC\obj\Release\VOBC.pdb

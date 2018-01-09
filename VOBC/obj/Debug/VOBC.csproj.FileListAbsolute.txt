@@ -1,0 +1,44 @@
+F:\实验室\VOBC\bin\Debug\VOBC.exe.config
+F:\实验室\VOBC\obj\Debug\VOBC.exe
+F:\实验室\VOBC\obj\Debug\VOBC.pdb
+F:\实验室\VOBC\bin\Debug\VOBC.exe
+F:\实验室\VOBC\bin\Debug\VOBC.pdb
+F:\实验室\VOBC\obj\Debug\VOBC.csprojResolveAssemblyReference.cache
+F:\实验室\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+F:\实验室\VOBC\obj\Debug\CBTC.B_AGauge.resources
+F:\实验室\VOBC\obj\Debug\CBTC.VOBC.resources
+F:\实验室\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+F:\实验室\VOBC\obj\Debug\VOBC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC\bin\Debug\VOBC.exe.config
+C:\Users\wang\Desktop\VOBC\obj\Debug\VOBC.exe
+C:\Users\wang\Desktop\VOBC\obj\Debug\VOBC.pdb
+C:\Users\wang\Desktop\VOBC\bin\Debug\VOBC.exe
+C:\Users\wang\Desktop\VOBC\bin\Debug\VOBC.pdb
+C:\Users\wang\Desktop\VOBC\obj\Debug\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.VOBC.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\VOBC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC - 副本\bin\Debug\VOBC.exe.config
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\VOBC.exe
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\VOBC.pdb
+C:\Users\wang\Desktop\VOBC - 副本\bin\Debug\VOBC.exe
+C:\Users\wang\Desktop\VOBC - 副本\bin\Debug\VOBC.pdb
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\CBTC.VOBC.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\VOBC - 副本\obj\Debug\VOBC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Debug\VOBC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Debug\VOBC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\bin\Debug\VOBC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\VOBC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\CBTC.VOBC.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\VOBC\obj\Debug\VOBC.csproj.GenerateResource.Cache

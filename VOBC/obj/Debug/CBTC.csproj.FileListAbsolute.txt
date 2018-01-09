@@ -1,0 +1,790 @@
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\前车和ZC交互 - 修改双机通信版本 - 副本\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161028-1736\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161028-1736\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161031-16：13\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161031-16：13\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161031-22：10\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161031-22：10\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161031-22：31\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161031-22：31\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161101-10：32\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161101-10：32\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161101-10：55\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161101-10：55\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161101-16：48\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.Form1.resources
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161101-16：48\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\20161101-16：48 - 副本\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\20161101-16：48 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\燕房线\前车\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\前车 2016-11-3\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-3\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\前车 2016-11-4\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-4\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-5- 加入线路信息版\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-7 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-7\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-7\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-7\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-7-22：10 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-8-10：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-16：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-8-19：57\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-9-10：30\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-9-11：40\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-12-11：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-13-11：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-14-11：40 - 副本\obj\Debug\CBTC.PacketLoss.resources
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.PacketLoss.resources
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-11：40\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.PacketLoss.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\燕房线\前车 2016-11-15-15：40\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-15-15：40\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-15-15：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-16-15：40 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-17-11：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-10：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-18-10：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-18-14：38\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-18-15：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-18-16：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-19-17：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\Luo\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-12-17：00 - 副本 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 2016-11-21-17：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-01：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-01：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-01：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-01：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-10：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-10：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-10：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-10：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-12：00 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-22-17：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-17：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-17：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-17：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-22：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-22：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-22：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-22-22：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-23-01：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-01：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-01：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-23-01：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-23-02：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-23-14：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-14：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-14：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-23-14：00 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-24-01：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-24-01：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-24-01：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-24-01：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+F:\燕房线\前车2016-11-24-14：00\bin\Debug\CBTC.exe.config
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.exe
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.pdb
+F:\燕房线\前车2016-11-24-14：00\bin\Debug\CBTC.exe
+F:\燕房线\前车2016-11-24-14：00\bin\Debug\CBTC.pdb
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.A2_TargetDistance.resources
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.B_AGauge.resources
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.FrontTrain.resources
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.Properties.Resources.resources
+F:\燕房线\前车2016-11-24-14：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车2016-11-24-14：00\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-24-14：00\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车2016-11-24-14：00\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车2016-11-24-14：00\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\111\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\111\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\111\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\111\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\111 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\111 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\111 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\111 - 副本\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\前车16\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\前车16\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\前车16\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\前车16\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0104改\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0104改\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0104改\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0104改\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0105\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0105\前车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0105\前车（后）\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0105\前车（后）\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0105\前车（后）\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\后车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\后车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0105\后车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0105\后车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0116\后车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0116\后车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0116\后车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.FrontTrain.resources
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0116\后车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.csprojResolveAssemblyReference.cache

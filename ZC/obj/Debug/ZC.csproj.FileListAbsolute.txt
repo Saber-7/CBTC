@@ -1,0 +1,198 @@
+C:\Users\qing\Desktop\ZC\ZC\bin\Debug\ZC.exe.config
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\qing\Desktop\ZC\ZC\bin\Debug\ZC.exe
+C:\Users\qing\Desktop\ZC\ZC\bin\Debug\ZC.pdb
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.exe
+C:\Users\qing\Desktop\ZC\ZC\obj\Debug\ZC.pdb
+H:\tonight\ZC\ZC\bin\Debug\ZC.exe.config
+H:\tonight\ZC\ZC\obj\Debug\ZC.exe
+H:\tonight\ZC\ZC\obj\Debug\ZC.pdb
+C:\Users\Administrator\Desktop\ZC\ZC\bin\Debug\ZC.exe.config
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.exe
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.pdb
+C:\Users\Administrator\Desktop\ZC\ZC\bin\Debug\ZC.exe
+C:\Users\Administrator\Desktop\ZC\ZC\bin\Debug\ZC.pdb
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ZC\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+F:\tonight\ZC123\ZC\ZC\bin\Debug\ZC.exe.config
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.exe
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.pdb
+F:\tonight\ZC123\ZC\ZC\bin\Debug\ZC.exe
+F:\tonight\ZC123\ZC\ZC\bin\Debug\ZC.pdb
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.Form1.resources
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.Properties.Resources.resources
+F:\tonight\ZC123\ZC\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+D:\我的任务\ZC(11.3)\ZC\ZC\bin\Debug\ZC.exe.config
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.exe
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.pdb
+D:\我的任务\ZC(11.3)\ZC\ZC\bin\Debug\ZC.exe
+D:\我的任务\ZC(11.3)\ZC\ZC\bin\Debug\ZC.pdb
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.Form1.resources
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.Properties.Resources.resources
+D:\我的任务\ZC(11.3)\ZC\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+D:\我的任务\ZC(11.3) - 副本\ZC\ZC\bin\Debug\ZC.exe.config
+D:\我的任务\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.exe
+D:\我的任务\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\ZC.exe.config
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\wang\Desktop\ZC(11.3) - 副本\ZC\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\ZC\bin\Debug\ZC.exe.config
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC\bin\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC\bin\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\ZC\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\ZC\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\ZC\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\ZC\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\ZC\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\ZC\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\wang\Desktop\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\ZC.exe.config
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\ZC.exe
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\ZC.pdb
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\mscorlib.dll
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\normidna.nlp
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\normnfc.nlp
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\normnfd.nlp
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\normnfkc.nlp
+C:\Users\wang\Desktop\ZC - 副本\bin\Debug\normnfkd.nlp
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.Form1.resources
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\wang\Desktop\ZC - 副本\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\前车16\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\前车16\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\前车16\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\前车16\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\前车16 - 副本 (4)\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0104改\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0104改\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0104改\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0104改\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.Form1.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0104改 - 副本\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0105\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0105\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0105\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0105\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0105改进版\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0111\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0111\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0111\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0111\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0112\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0112\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0112\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0112\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0116\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0116\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0116\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0116\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\0116\单端口ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\20170216\单端口ZC\obj\Debug\ZC.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Debug\ZC.exe.config
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Debug\ZC.exe
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\bin\Debug\ZC.pdb
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.ZC.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\CBTC\CBTC-beta4\ZC\obj\Debug\ZC.csproj.GenerateResource.Cache

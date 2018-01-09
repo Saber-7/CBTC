@@ -1,0 +1,113 @@
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\后车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\后车\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\单端口\后车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\单端口\后车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\单端口\后车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\单端口\后车\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\VOBC\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\VOBC\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+F:\赵老师项目\VOBC\bin\Debug\CBTC.exe.config
+F:\赵老师项目\VOBC\obj\Debug\CBTC.exe
+F:\赵老师项目\VOBC\obj\Debug\CBTC.pdb
+F:\赵老师项目\VOBC\bin\Debug\CBTC.exe
+F:\赵老师项目\VOBC\bin\Debug\CBTC.pdb
+F:\赵老师项目\VOBC\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+F:\赵老师项目\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+F:\赵老师项目\VOBC\obj\Debug\CBTC.B_AGauge.resources
+F:\赵老师项目\VOBC\obj\Debug\CBTC.VOBC2.resources
+F:\赵老师项目\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+F:\赵老师项目\VOBC\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\20170224\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\20170224\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\20170224\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\20170227\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\20170227\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\20170227\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\20170227\前车\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\0310\前车\bin\Debug\CBTC.exe.config
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0310\前车\bin\Debug\CBTC.exe
+C:\Users\PengYaFeng\Desktop\0310\前车\bin\Debug\CBTC.pdb
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.VOBC2.resources
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\0310\前车\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\前车 - 副本\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\前车 - 副本\obj\Debug\CBTC.VOBC.resources
+C:\Users\wang\Desktop\结构体没有修改完全\bin\Debug\CBTC.exe.config
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.exe
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.pdb
+C:\Users\wang\Desktop\结构体没有修改完全\bin\Debug\CBTC.exe
+C:\Users\wang\Desktop\结构体没有修改完全\bin\Debug\CBTC.pdb
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.A2_TargetDistance.resources
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.B_AGauge.resources
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.VOBC.resources
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC.Properties.Resources.resources
+C:\Users\wang\Desktop\结构体没有修改完全\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\VOBC\obj\Debug\CBTC.VOBC.resources
+F:\实验室\VOBC\bin\Debug\VOBC.exe.config
+F:\实验室\VOBC\bin\Debug\VOBC.exe
+F:\实验室\VOBC\bin\Debug\VOBC.pdb
+F:\实验室\VOBC\obj\Debug\CBTC2.csprojResolveAssemblyReference.cache
+F:\实验室\VOBC\obj\Debug\CBTC.A2_TargetDistance.resources
+F:\实验室\VOBC\obj\Debug\CBTC.B_AGauge.resources
+F:\实验室\VOBC\obj\Debug\CBTC.VOBC.resources
+F:\实验室\VOBC\obj\Debug\CBTC.Properties.Resources.resources
+F:\实验室\VOBC\obj\Debug\CBTC2.csproj.GenerateResource.Cache
+F:\实验室\VOBC\obj\Debug\VOBC.exe
+F:\实验室\VOBC\obj\Debug\VOBC.pdb
